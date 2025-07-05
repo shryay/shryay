@@ -90,7 +90,7 @@ I love building innovative solutions, collaborating with the community, and expl
   </a>
   <!-- Add more social links as needed -->
   <a href="https://x.com/shryay_" target="_blank">
-    <img alt="![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
 </p>
 
