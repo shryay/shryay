@@ -49,36 +49,6 @@ I love building innovative solutions, collaborating with the community, and expl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shryay&theme=radical" alt="streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shryay&show_icons=true&theme=radical" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shryay&layout=compact&theme=radical" alt="top languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shryay&theme=radical&margin-w=15" alt="trophies"/>
-</p>
-
----
-
-<!-- ## 📝 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace this with your own feed using GitHub Actions or an RSS feed generator -->
-<!-- - [How I Built My Portfolio Website](#) -->
-<!-- - [Top 10 VSCode Extensions for Productivity](#) -->
-<!-- - [Building a REST API with Node.js](#) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- --- -->
-
 ## 🌐 Connect with Me
 
 <p align="left">
