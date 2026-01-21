@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=PLAYER+SELECT:+SHREYA_UPADHYAY;CLASS:+BACKEND_ENGINEER+%2F+AI_DEV;CURRENT_MISSION:+BUILDING_SCALABLE_SYSTEMS;STATUS:+READY_TO_CODE..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=PLAYER+SELECT:+SHREYA_UPADHYAY;CLASS:+BACKEND_ENGINEER+%2F+AI_DEV;CURRENT_MISSION:+BUILDING_SCALABLE_SYSTEMS;STATUS:+READY_TO_CODE..." alt="Typing SVG" />
 </div>
 
 <h1 align="center">👾 Welcome to the Mainframe 👾</h1>
