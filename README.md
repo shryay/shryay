@@ -58,9 +58,10 @@
 ## 📊 Player Stats
 
 <p align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shryay&theme=radical&no-frame=true&margin-w=12&row=1)
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=shryay&theme=radical&no-frame=true&row=1&margin-w=12&format=png"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <div align="center">
