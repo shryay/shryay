@@ -58,15 +58,22 @@
 ## 📊 Player Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shryay&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=shryay&theme=radical&no-frame=true&margin-w=4"
+       alt="GitHub Trophies" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shryay&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shryay&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=shryay&show_icons=true&theme=radical&rank_icon=github&count_private=true"
+       height="180" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shryay&layout=compact&theme=radical&hide_border=true"
+       height="180" alt="languages graph" />
+
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shryay&theme=radical&hide_border=true" alt="streak graph" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shryay&theme=radical&hide_border=true"
+       alt="streak graph" />
 </div>
+
 
 ---
 
