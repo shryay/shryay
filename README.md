@@ -88,5 +88,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFB3&height=100&section=footer"/>
   <br>
-  <i>"I love solving puzzles and participating in hackathons!"</i>
+  <i>"If it’s hard, I’m definitely interested."</i>
 </div>
