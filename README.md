@@ -57,7 +57,11 @@
 
 ## 📊 Player Stats
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shryay&theme=radical&no-frame=true&margin-w=8&row=1)
+<p align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shryay&theme=radical&no-frame=true&margin-w=12&row=1)
+
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shryay&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" />
