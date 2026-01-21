@@ -59,8 +59,8 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=shryay&theme=radical&no-frame=true&row=1&margin-w=12&format=png"
-    alt="GitHub Trophies"
+    src="https://github-readme-stats.vercel.app/api?username=shryay&show_icons=true&theme=radical&hide_title=true&count_private=true"
+    alt="GitHub Stats"
   />
 </p>
 
