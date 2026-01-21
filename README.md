@@ -29,8 +29,16 @@
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://github.com/shryay/shryay/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shryay/shryay/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shryay/shryay/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation"
+      src="https://raw.githubusercontent.com/shryay/shryay/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
