@@ -5,7 +5,7 @@
 <h1 align="center">👾 Welcome to the Mainframe 👾</h1>
 
 <p align="center">
-  <b>Backend Engineer | AI Enthusiast | Open Source Contributor</b>
+  <b>Backend & AI Engineer | Open Source Contributor</b>
 </p>
 
 <p align="center">
